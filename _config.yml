@@ -1,6 +1,7 @@
 # Site settings
 title: Radical Cadence
 author: Radical Cadence Group
+location: Chicago, IL 
 email: rc@griffinmoe.com
 description: > # this means to ignore newlines until "baseurl:"
   A collective of musicians and computer scientists making things interesting.
@@ -8,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.radicalcadence.com" # the base hostname & protocol for your site
 twitter_username: RadicalCadence
 github_username:  RadicalCadence
-soundcould_username: radicalcadence
+soundcloud_username: radicalcadence
 
 # Build settings
 markdown: kramdown
